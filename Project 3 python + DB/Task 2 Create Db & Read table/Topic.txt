@@ -1,0 +1,4 @@
+
+Task 2 		
+Read the contents of the file (new) and store it in Database table
+and show it on the screen (read from table)

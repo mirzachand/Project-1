@@ -1,0 +1,22 @@
+mongo
+show dbs
+use Mobile
+db
+
+db.Brands.insertMany([{
+     "name":"Apple",
+     "position":1
+ },
+ {
+     "name":"Samsung",
+     "position":2
+ },
+ {
+     "name":"OnePlus",
+     "position":3
+ },
+ {
+     "name":"Xiomi",
+     "position":4
+ },
+ ])
