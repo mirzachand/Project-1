@@ -8,7 +8,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
    
-from_addr = "ibnaejaz@gmail.com"
+from_addr = "mirzachand0307@gmail.com"
 to_addr = "mirzachand0307@gmail.com"
    
 # instance of MIMEMultipart
