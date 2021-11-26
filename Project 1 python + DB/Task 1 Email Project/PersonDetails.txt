@@ -1,0 +1,6 @@
+Name 		Elon musk
+Age		50
+Height		5'11"
+Date of birth	28-06-1971
+Professions	Entrepreneur, businessman
+Nationality	South Africa, U.S., Canada
